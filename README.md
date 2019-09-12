@@ -9,8 +9,8 @@ If you start a new research project for CDP follow these steps:
 - [ ] Send a pull request to the repository
 
 If you have a publication that results from CDP related research:
-- Fork this repository
-- Add your document in a raw format (e.g. .docx or latex) to the `Publications` folder.
-- Send a pull request to the repository
+- [ ] Fork this repository
+- [ ] Add your document in a raw format (e.g. .docx or latex) to the `Publications` folder.
+- [ ] Send a pull request to the repository
 
 If you have any questions, or want help uploading documents contact `nmweber@uw.edu` or `jmaxfieldbrown@gmail.com`
