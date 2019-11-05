@@ -58,13 +58,13 @@ Independent
 - For: $226K
 - Against: $19.7K 
 
-Prediction: 
+**Prediction:** 
 - Morales 65% 
 - Solomon 35% 
 
 Total turnout is close to 18K
 
-#District 3. 
+# District 3 
 Whooo boy. This is one of the most contested and, to be blunt, ugly races of this election cycle. Orion is the only candidate in the election to have been accused and settled a case about campaign finance violations. 
 
 Sawant has been attacked by nearly every PAC - her face used to rally support of people she isn't even running against. She has been painted as vindictive, self-serving, and radical in ways that are detrimental to the functioning of city council. She may be all of those things, but she is also the council's strongest opposition to the Mayor and private money. Give Sawant a lot of credit for taking her opponents, not just Orion, head on. This even garnered endorsements from fellow council members like Gonzalez who were reluctant to support her in the primaries.
@@ -92,14 +92,14 @@ Independent
 - For: $1.9K
 - Against: $17,587 (This is not accurate of actual messaging in opposition) 
 
-Prediction: 
+**Prediction:** 
 - Orion 58% 
 - Sawant 42%
  
 Total turnout is close to 32K
 
 
-#District 4
+# District 4
 
 Unlike D3 - this race has one of the savviest politicians in the race. And it is not Shawn Scott. Alex Pederson has quietly led a very successful campaign - doing it with all of the privilege that comes with being a middle aged white man who can afford to dedicate himself full time to winning a seat on the city council. Despite far left criticism for his absence at public forums - Pederson has actually knocked on every single registered voters door in D4. He has been "smart" not to put himself in public venues where the optics of himself vs Scott are so stark for voters to see. 
 
