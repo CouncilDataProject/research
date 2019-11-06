@@ -78,7 +78,7 @@ Prediction:
 
 Total turnout is close to 18K
 
-#District 3. 
+# District 3. 
 Whooo boy. This is one of the most contested and, to be blunt, ugly races of this election cycle. Orion is the only candidate in the election to have been accused and settled a case about campaign finance violations. 
 
 Sawant has been attacked by nearly every PAC - her face used to rally support of people she isn't even running against. She has been painted as vindictive, self-serving, and radical in ways that are detrimental to the functioning of city council. She may be all of those things, but she is also the council's strongest opposition to the Mayor and big corporate cash. Give Sawant a lot of credit for taking her opponents, not just Orion, head on. This even garnered endorsements from fellow council members like Gonzales who was reluctant to support her in the primary.
