@@ -111,7 +111,7 @@ Prediction:
 Total turnout is close to 32K
 
 
-#District 4
+# District 4
 Unlike D3 - this race has one of the savviest politicians in the race. And it is not Shawn Scott. Alex Pedersen has quietly led a very successful campaign - doing it with all of the privilege that comes with being a middle aged white man who can afford to dedicate himself full time to winning a seat on the city council. Despite far left criticism for his absence at public forums - Pedersen has actually knocked on every single registered voters door in D4. He has been "smart" not to put himself in public venues where the optics of Pedersen vs Scott are so stark for voters to see. 
 
 Scott had some early missteps but has gotten stronger as the race has gone on. He has the great disadvantage of running in D4 - a district that is old, white, and more moderate than the rest of the city. But, Scott is one of the most popular politicians in the entire race. He received more out of district democracy vouchers than any other candidate. The returning UW population was said to boost some of Scott's numbers, but he will have to capture a huge amount of the non-Pedersen votes from the primary to make this competitive. 
